@@ -1,5 +1,5 @@
 # kws-stm32f7disco-cmsisNN
-转载的https://github.com/ARM-software/ML-KWS-for-MCU的内容，修改了其中的一些配置
+修改ML-KWS-for-MCU的部分配置内容，使其可正常编译运行
 
 #### github源码
 - 两个网址，使用第一个
